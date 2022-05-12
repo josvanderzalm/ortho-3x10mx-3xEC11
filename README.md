@@ -6,6 +6,6 @@
 ### Plate
 ![Switch plate](https://raw.githubusercontent.com/josvanderzalm/ortho-3x10mx-3xEC11/main/switch-plate.svg)
 
-
 ## Parts
 Microcontroller board  https://splitkb.com/collections/keyboard-parts/products/nice-nano
+Switches https://kprepublic.com/products/kailh-box-crystal-royal-switch-smd-clear-mx-switches-for-mechanical-keyboard-5pin-50m-clear-housing-tactile
